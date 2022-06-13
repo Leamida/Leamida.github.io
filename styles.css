@@ -30,7 +30,10 @@ button{
     outline: none;
 }
 
-.all-clear, .zero-btn{
+.all-clear{
+    width: 75%;
+}
+.zero-btn{
     width: 50%;
 }
 
